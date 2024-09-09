@@ -99,4 +99,9 @@ Interactions:
 Adjust visual interactions per page as specified for effective filtering and cross-filtering.
 Final Steps
 Update Documentation:
+![Screenshot 2024-09-09 135512](https://github.com/user-attachments/assets/d45a1e0b-c4d6-4a2e-bc0d-6b4059f3afd7)
+![Screenshot 2024-09-09 135534](https://github.com/user-attachments/assets/cf3e1892-2332-48a6-a410-8fc6a2b73024)
+
+
+
 
